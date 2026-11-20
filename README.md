@@ -42,16 +42,6 @@
 
 - [temas teóricos](temas%20teoricos%20parcial%201.pdf)
 
-## Bibliografía
-
-- Neter, J., Kutner, M.H., Nachstsheim, C. and Wasserman, W. (2004) “Applied Linear Statistical Methods”. 4º Edición. Mc. Graw-Hill.
-- Scheffé, H. (1959). The analysis of variance. New York: Wiley.
-- Seber, G. A. F. (2003). Linear Regression Analysis, 2da. Edición. John Wiley & Sons.
-- Christensen, Ronald (2011) Plane Answers to Complex Questions: The Theory of Linear Models. Springer Texts in Statistics.
-- Christensen, Ronald (2010) Advanced Linear Modeling: Multivariate, Time Series, and Spatial Data; Nonparametric Regression and Response Surface Maximization. Springer Texts in Statistics.
-- Draper, N. R. y Smith H. (1998). Applied Rgression Analy
-- Stapleton, James H. (2009). Linear Statistical Models. Wiley Series in Probability and Statistics.
-
 ## Página original
 
 [Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/1ercuat2017/modelo_lineal)
